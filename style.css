@@ -1,1 +1,30 @@
+p {
+  font-family: Arial;
+  color:black;
+}
+
+selector
+p {
+  color:red;
+}
+
+declaration block
+p {
+  color:pink;
+}
+
+declaration
+p {
+  color:purple;
+}
+
+property
+p {
+  color:blue;
+}
+
+value
+p {
+  color:white;
+}
 
